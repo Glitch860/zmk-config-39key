@@ -14,6 +14,7 @@ Had to modify around the controller points to fit the nice nano with the battery
 Also had to remove some support pillars to fit the Single switch PCBs for this build which also added underglow RGB.
 
 NiceNano pin out schematic
+
 ![image](https://github.com/user-attachments/assets/51da235c-7f70-4ce6-a91d-14201e0008ff)
 
 Used to complete this build:
