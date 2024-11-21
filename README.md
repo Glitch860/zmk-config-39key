@@ -21,6 +21,7 @@ Used to complete this build:
 - 39 MX style switches
 - 39 1N4148 diodes
 - 39 kailh hot swap sockets
+- 12 sk6812mini LEDs
 - 39 Single Switch PCBs
 - 22 gauge tinned copper wire
 - 24 gauge insulated wire
