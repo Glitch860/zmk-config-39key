@@ -20,4 +20,4 @@
 include:
   - board: nice_nano_v2
     shield: 39Key
-    snippet: zmk-usb-logging
+#    snippet: zmk-usb-logging
