@@ -1,6 +1,7 @@
 # zmk-config-39key
 ZMK config setup for a 39 key keyboard
-![PXL_20241127_135601698](https://github.com/user-attachments/assets/56a51b94-7faf-45e5-9ab3-b06fde6ab15e)
+
+![PXL_20241127_135601698](https://github.com/user-attachments/assets/65fa34a7-ce6a-42f3-b8c5-c33e47b49a4c)
 
 3D printed keyboard link:
 [https://www.thingiverse.com/thing:4592203]
