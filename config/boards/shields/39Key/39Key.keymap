@@ -50,7 +50,7 @@ keymap {
             bindings = <
                 &bt BT_SEL 0   &bt BT_SEL 1   &bt BT_SEL 2   &bt BT_SEL 3   &bt BT_SEL 4  &bt BT_CLR      &none           &none           &rgb_ug RGB_EFF   &rgb_ug RGB_BRD  &rgb_ug RGB_BRI  &none
                 &bt BT_DISC 0  &bt BT_DISC 1  &bt BT_DISC 2  &bt BT_DISC 3  &bt BT_DISC 4 &bt BT_CLR_ALL  &studio_unlock  &rgb_ug RGB_ON  &none             &rgb_ug RGB_SPD  &rgb_ug RGB_SPI  &none
-                &bootloader    &none          &none          &none          &none         &none           &none           &rgb_ug RGB_OFF &rgb_ug RGB_SAD   &rgb_ug RGB_SAI  rgb_ug RGB_HUI   rgb_ug RGB_HUD
+                &bootloader    &none          &none          &none          &none         &none           &none           &rgb_ug RGB_OFF &rgb_ug RGB_SAI   &rgb_ug RGB_SAD  &rgb_ug RGB_HUI  &rgb_ug RGB_HUD
                                                                                           &trans  &trans  &kp LG(L)
             >;
          };
