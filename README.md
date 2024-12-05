@@ -17,13 +17,14 @@ Link to the MxLEDBitPCB: [https://github.com/swanmatch/MxLEDBitPCB]
 - 39 MX style switches
 - 39 1N4148 diodes
 - 39 kailh hot swap sockets
-- 12 sk6812mini LEDs
+- 15 sk6812mini-e LEDs
 - 39 Single Switch PCBs
 - 22 gauge tinned copper wire
-- 24 gauge insulated wire
+- 28 AWG Flexible Silicone Wire
 - 1 NiceNano controller
 - 1 Battery helper PCB from [https://www.boardsource.xyz/]
 - Hot glue if the switches need to be held in (because the pate is 3mm thick, switches need 1.5mm).
+- 9 screws
 
 # License
 
