@@ -23,8 +23,33 @@ Link to the MxLEDBitPCB: [https://github.com/swanmatch/MxLEDBitPCB]
 - 28 AWG Flexible Silicone Wire
 - 1 NiceNano controller
 - 1 Battery helper PCB from [https://www.boardsource.xyz/]
-- Hot glue if the switches need to be held in (because the pate is 3mm thick, switches need 1.5mm).
+- Hot glue (needed to hold the switches/pcbs to the plate).
 - 9 screws
+
+##Build Guide
+
+- print the case and plate
+
+- put switches into plate
+
+> I had fo make modifications to the plate and case to fit the Nicenano controller. plate was modified to remove some of the legs as they were in the way of the pcbs.
+
+- solder the pcb components and then connect to the switches
+
+- solder connections for row and column to all fhe pcbs/switches
+
+- using the silicone wire, connect all power and negative together for fhe switches that will have LEDs
+
+- using silicone wire connect to Data IN ok pcb. connect the data in/out to all the pcbs. Be sure to connect data OUT on the last switch back to data pin used on the controller.
+
+- using the hot glue, glue the pcbs/switches to plate
+
+> I used some 1mm foam connected to the plate.
+
+- pop in the controller after connecting and gluing in battery
+
+- screw the case and plate together. then test. Be careful when having to unscrew the case multiple times as the plate legs can easily snap off.
+
 
 # License
 
